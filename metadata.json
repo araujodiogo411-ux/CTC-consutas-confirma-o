@@ -1,0 +1,6 @@
+{
+  "name": "CTC Consultas",
+  "description": "Gerador e gerenciador de confirmações de consultas médicas com suporte a download em imagem, cópia rápida de texto e histórico de registros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
